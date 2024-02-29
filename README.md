@@ -115,12 +115,5 @@ Access: http://localhost:5000/swagger/index.html
 Or public for others to use via IPv4 connection: http://<IPv4>:5000/swagger/index.html
 </p>
     
-<h2>Author</h2>
-
-<p>
-    - [Hoàng]
-    - [[Link to my GitHub profile](https://github.com/Edge48028)]
-</p>
-
 </body>
 </html>
